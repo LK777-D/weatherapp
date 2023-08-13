@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState, useEffect } from "react";
-import Input from "./components/input";
+import Input from "./components/Input";
 import CurrentWeather from "./components/CurrentWeather";
 import HourlyWeather from "./components/HourlyWeather";
 
