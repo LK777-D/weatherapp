@@ -1,0 +1,33 @@
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input input {
+  padding: 0.7rem;
+  font-family: inherit;
+  background: rgb(94, 77, 205, 0.2);
+  border: 1px solid #5e4dcd;
+  color: #fff;
+  font-weight: bolder;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+}
+.input input:focus {
+  outline: #5e4dcd;
+}
+
+.input button {
+  padding: 0.7rem;
+  font-family: inherit;
+  border: none;
+  background-color: #5e4dcd;
+  color: white;
+  border: 1px solid #5e4dcd;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in;
+}
+.input button:hover {
+  background-color: #3c2ca1;
+}

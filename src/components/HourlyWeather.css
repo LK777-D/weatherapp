@@ -1,0 +1,20 @@
+.hourly {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: rgb(199, 199, 199, 0.4);
+  min-height: 5.5rem;
+  max-width: 85%;
+  margin: 0 auto;
+  overflow-x: scroll;
+  border-radius: 10px;
+  padding: 1rem;
+}
+.singleforecast {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+::-webkit-scrollbar {
+  display: none;
+}

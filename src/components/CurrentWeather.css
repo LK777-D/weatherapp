@@ -1,0 +1,25 @@
+.current {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  color: #eee;
+}
+
+.midinfo {
+  display: flex;
+  flex-direction: column;
+}
+.current span {
+  font-weight: bolder;
+  font-size: 1.2rem;
+}
+.bottominfo {
+  display: flex;
+  flex-direction: column;
+  gap: 1.7rem;
+}
+.bottominfo div {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}

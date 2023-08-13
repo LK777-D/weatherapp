@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": 41.6359, "lat": 41.6416 },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 26.99,
+    "feels_like": 30.6,
+    "temp_min": 26.99,
+    "temp_max": 26.99,
+    "pressure": 1015,
+    "humidity": 89
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.57, "deg": 220 },
+  "clouds": { "all": 75 },
+  "dt": 1691833342,
+  "sys": {
+    "type": 1,
+    "id": 8858,
+    "country": "GE",
+    "sunrise": 1691806704,
+    "sunset": 1691857136
+  },
+  "timezone": 14400,
+  "id": 615532,
+  "name": "Batumi",
+  "cod": 200
+}

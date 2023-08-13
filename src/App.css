@@ -1,0 +1,52 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  color: #eee;
+}
+.app {
+  max-width: 100vw;
+  height: 100vh;
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+  overflow: hidden;
+}
+.clear {
+  background-image: url("./assets/clear.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rain {
+  background-image: url("./assets/rain2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.snow {
+  background-image: url("./assets/snow.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.thunderstrom {
+  background-image: url("./assets/thunder.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.clouds {
+  background-image: url("./assets/clouds.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
